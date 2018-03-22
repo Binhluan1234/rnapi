@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeApi'
+
+include ':app'
